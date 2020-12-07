@@ -1,12 +1,12 @@
 # car_scraper
 Web scraping and machine learning application for autotrader.ca
 
-This purpose of this application is to scrape autotrader.ca for newest car ads and identify advantageous/disadvantageous pricing.
-Can also be used by sellers to appraise their car. 
-
-Could also be repurposed for housing prices. 
-
-Steps:
+This purpose of this application is to scrape autotrader.ca for newest car ads and identify advantageous/disadvantageous pricing.<br>
+Can also be used by sellers to appraise their car.<br>
+<br>
+Could also be repurposed for housing prices.<br>
+<br>
+Steps:<br>
 
 Connecting to target website
 Retrieving data 
