@@ -7,19 +7,19 @@ Can also be used by sellers to appraise their car.<br>
 Could also be repurposed for housing prices.<br>
 <br>
 Steps:<br>
-
-Connecting to target website
-Retrieving data 
-Populating dataframe with scraped data
-Train/test/split
-Saving model to determine VALUE
-Building HTML page
-Input field contains search parameters
-Search: 
-    Returns top 10 results (KPI == VALUE)
-    Compares those top 10 to best VALUE of like vehicles in last week/month/year
-Appraisal: 
-    Intake form with details, inputs to ML model and gets price output. 
+<br>
+Connecting to target website<br>
+Retrieving data<br>
+Populating dataframe with scraped data<br>
+Train/test/split<br>
+Saving model to determine VALUE<br>
+Building HTML page<br>
+Input field contains search parameters<br>
+Search:<br> 
+    Returns top 10 results (KPI == VALUE)<br>
+    Compares those top 10 to best VALUE of like vehicles in last week/month/year<br>
+Appraisal:<br> 
+    Intake form with details, inputs to ML model and gets price output.<br>
 
 
 
